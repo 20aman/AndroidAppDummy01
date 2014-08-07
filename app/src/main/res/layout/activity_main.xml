@@ -32,7 +32,7 @@
         <!-- Closing tag for the horizontal nested layout -->
     </LinearLayout>
 
-    <!--Dummy Comment-->
+    <!--Dummy Comment Altered-->
 
         <!-- Displays keyboard when touched -->
         <EditText
