@@ -32,6 +32,8 @@
         <!-- Closing tag for the horizontal nested layout -->
     </LinearLayout>
 
+    <!--Dummy Comment-->
+
         <!-- Displays keyboard when touched -->
         <EditText
             android:id="@+id/main_edittext"
